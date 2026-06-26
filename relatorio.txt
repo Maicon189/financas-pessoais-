@@ -1,0 +1,8 @@
+========== RELATÓRIO FINANCEIRO ==========
+Total de Receitas: R$ 500.00
+Total de Despesas: R$ 0.00
+Saldo Final:       R$ 500.00
+------------------------------------------
+Resumo por Categoria (Saldo líquido):
+ - alimentação: R$ 500.00
+==========================================
