@@ -1,8 +1,10 @@
-========== RELATÓRIO FINANCEIRO ==========
-Total de Receitas: R$ 500.00
-Total de Despesas: R$ 0.00
-Saldo Final:       R$ 500.00
-------------------------------------------
+ RELATÓRIO FINANCEIRO 
+Gerado em: 26/06/2026 às 21:30:50
+-----------------------------------
+Total de Receitas: R$ 850.00
+Total de Despesas: R$ 500.00
+Saldo Final: R$ 350.00
+-----------------------------------
 Resumo por Categoria (Saldo líquido):
- - alimentação: R$ 500.00
-==========================================
+  - alimentação: R$ -1000.00
+  - salario: R$ 850.00

@@ -4,5 +4,17 @@
         "valor": 500.0,
         "categoria": "alimentação",
         "descricao": "gastos de alimentos na semana"
+    },
+    {
+        "tipo": "1",
+        "valor": 850.0,
+        "categoria": "salario",
+        "descricao": "clt"
+    },
+    {
+        "tipo": "2",
+        "valor": 500.0,
+        "categoria": "alimentação",
+        "descricao": "rancho do mês"
     }
 ]
